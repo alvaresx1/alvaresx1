@@ -1,6 +1,6 @@
 # 👨‍💻Murilo
 
-Sou Murilo Alvares, estudante do 4º semestre de Sistemas de Informação no Centro Universitário das Américas (FAM). Tenho grande interesse por desenvolvimento web e design de interfaces, áreas em que venho me especializando por meio de cursos como UI Design, Figma, HTML e CSS. Com essa base, busco criar soluções visuais atrativas e funcionais, sempre com foco em experiência do usuário..
+Sou Murilo Alvares, estudante do 4º semestre de Sistemas de Informação. Tenho grande interesse por desenvolvimento web e design de interfaces, áreas em que venho me especializando por meio de cursos como UI Design, Figma, HTML e CSS. Com essa base, busco criar soluções visuais atrativas e funcionais, sempre com foco em experiência do usuário..
 
 ---
 
