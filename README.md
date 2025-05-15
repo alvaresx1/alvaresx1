@@ -30,6 +30,14 @@ Sou Murilo Alvares Costa, estagiário no Grupo AMP e atualmente estou cursando o
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
 
 <br clear="left"/>
 
@@ -44,4 +52,5 @@ Sou Murilo Alvares Costa, estagiário no Grupo AMP e atualmente estou cursando o
 
   <img align="left" alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaresx1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
+
    
