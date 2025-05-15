@@ -44,4 +44,4 @@ Sou Murilo Alvares Costa, estagiário no Grupo AMP e atualmente estou cursando o
 
   <img align="left" alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaresx1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
-    />
+   
