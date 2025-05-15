@@ -31,7 +31,9 @@ Sou Murilo Alvares Costa, estagiário no Grupo AMP e atualmente estou cursando o
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-###📊 Estatísticas do GitHub
+<br clear="left"/>
+
+### 📊 Estatísticas do GitHub
 
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSilvaGit&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
